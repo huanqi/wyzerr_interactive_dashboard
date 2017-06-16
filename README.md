@@ -10,4 +10,6 @@
   
 3. [Wyzerr reviews nlp](https://youtu.be/UhoSUVmkabk)
 
-  [![alt text](https://gifs.com/gif/topic-reviews-word2vec-X64Oj8)](https://youtu.be/UhoSUVmkabk)
+  * Demo
+
+[![Demo Doccou alpha](https://j.gifs.com/X64Oj8.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
