@@ -4,3 +4,4 @@
 
 
 * [Wyzerr dashboard](https://cdn.rawgit.com/huanqi/wyzerr_interactive_dashboard/6144d386/mongodb_connection_dashboard.html)
+![alt text](https://github.com/huanqi/wyzerr_interactive_dashboard/blob/master/Screen%20Shot%202017-05-02%20at%203.28.49%20PM.png)
