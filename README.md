@@ -8,3 +8,6 @@
   * Screenshot:
   *  ![alt text](https://github.com/huanqi/wyzerr_interactive_dashboard/blob/master/Screen%20Shot%202017-05-02%20at%203.28.49%20PM.png)
   
+3. [Wyzerr dashboard demo](https://youtu.be/UhoSUVmkabk)
+
+  ![alt text](https://youtu.be/UhoSUVmkabk)
