@@ -4,7 +4,7 @@
   * Demo
   [![video](https://j.gifs.com/3lLpkO.gif)](https://youtu.be/yvbwsWHQ02I)
 
-2. [Wyzerr data dashboard](https://youtu.be/fV4AKh7cKIg)
+2. [Wyzerr client data dashboard](https://youtu.be/fV4AKh7cKIg)
 
   * [code](https://cdn.rawgit.com/huanqi/wyzerr_interactive_dashboard/6144d386/mongodb_connection_dashboard.html)
 
